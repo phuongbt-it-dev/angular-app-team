@@ -3,4 +3,8 @@ angular.module('app.controllers', [
 	'menu.controller',
 	'home.controller',
 	'about.controller',
+	'service.controller',
+	'servicedetail.controller',
+	'shop-menu.controller',
+	'shop-list.controller',
 ])
